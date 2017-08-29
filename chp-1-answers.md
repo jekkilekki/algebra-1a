@@ -85,3 +85,18 @@
 46. $-1\times2.2\times2.2$
 
 ##1-5
+11. $11$
+12. $3$
+13. $-10$
+14. $20$
+15. $14.9 yd$
+16. $Q (rational)$
+17. $Q, Z, W, N (rational - terminating decimal, int, whole, natural)$
+18. $Q, Z (rational, int)$
+19. $irrational$
+20. $>$
+21. $>$
+22. $<$
+23. $=$
+
+##1-6 (PEMDAS Worksheet)
