@@ -83,3 +83,25 @@
 30. $x = identity$
 31. $x = contradiction$
 32. $x = identity$
+
+---
+
+###2-5
+
+14. $n = \frac{S}180 + 2$
+15. $x = 5a + 5g$
+16. $b = \frac{2A}h$
+17. $x = \frac{y - b}m$
+18. $n = \frac{a - 1}3$
+19. $T = \frac{PV}{nR}$
+20. $T = R - M$
+21. $T = M + R$
+22. $R = \frac{PV}{nT}$
+23. $b = \frac{c}2 - a$
+24. $c = -\frac{4p}9$
+25. $r = 7 - ax$
+26. $y = \frac{2 - 3x}7$
+27. $x = \frac{5 - 4y}3$
+28. $b = \frac{y}3 - x$
+
+30. $E = \frac{9r}i = 45/18 = 2.5$
