@@ -182,7 +182,7 @@
 
 ---
 
-2-9
+###2-9
 
 9. $\$462.50$
 10. $\$34,650$
@@ -193,3 +193,31 @@
 15. $about \$30$
 
 ---
+
+###2-10
+
+16. $20% increase$
+17. $25% decrease$
+18. $12.5% decrease$
+19. $400% increase$
+20. $6.25% decrease$
+21. $30% increase$
+22. $20% increase$
+23. $15% decrease$
+24. $25% decrease$
+25. $20% increase$
+26. $200% increase$
+27. $8\frac{1}{3}% decrease$
+28. $42$
+29. $252$
+30. $4.5$
+31. $7.6$
+32. $\$34.86$
+33. $15%$
+34. $\$43.60$
+35. $650%$
+36. $No, because the starting number is different, which means the % of each starting number is different.$
+
+
+a. $50 -> 80 = 60% increase$
+b. $80 -> 50 = 37.5% decrease$
