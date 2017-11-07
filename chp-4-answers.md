@@ -92,98 +92,100 @@
 ---
 
 ### 4-3
-3. 
+3. y = x - 2
 4.
-5.
+5. I: size of bottle, D: cost of water
 6.
-7.
+7. I: hours, D: cost
 8.
-9.
+9. f(0) = 2, f(1)  = 9
 10.
-11.
+11. h(27) = -1, h(-15) = -15
 12.
-13.
+13. y = -2x
 14.
-15.
+15. I: size of lawn, D: cost
 16.
-17.
+17. I: days late, D: total cost, f(x) = 3.99 + 0.99x
 18.
-19.
+19. I: gallons of gas, D: miles, f(x) = 28x
 20.
-21.
+21. g(1) = 7, g(2) = 10
 22.
-23.
+23. f(n) = 2n + 5
+  - D: {1, 2, 3, 4}
+  - R: {$7, $9, $11, $13}
 24.
 
 ---
 
 ### 4-4
 
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
+13. graph
+14. graph
+15. graph
+16. graph
+17. graph
+18. graph
+19. graph
+20. graph
+21. graph
+22. graph
+23. graph
+24. graph
+25. y = 5
+26. graph
+27. graph
 
 ---
 
 ### 4-5
 
 4.
-5.
+5. positive correlation
 6.
-7.
+7. negative correlation
 8.
-9.
+9. positive correlation
 10.
-11.
+11. Graph A
 12.
-13.
+13. 
 14.
-15.
+15. positive correlation
 16.
-17.
+17. positive correlation
 18.
-19.
+19. Graph A
 20.
-21.
+21. 
 
 ### 4-6
 
-1.
+1. common difference
 
 
-9.
+9. non-arithmetic
 10.
-11.
+11. arithmetic, d: -9, {-58, -67, -76}
 12.
-13.
+13. 5.9
 14.
-15.
+15. 9500 miles
 16.
-17.
+17. $\frac{1}4$
 18.
-19.
+19. -2.2
 20.
-21.
+21. 0.07
 22.
-23.
+23. ${-\frac{3}8, -\frac{1}2, -\frac{5}8, -\frac{3}4}$
 24.
-25.
+25. {-0.2, -0.7, -1.2, -1.7}
 26.
-27.
+27. {-0.3, -0.1, 0.1, 0.3}
 28.
-29.
+29. 22
 30.
-31.
+31. 122
 32.
