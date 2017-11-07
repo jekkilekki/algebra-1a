@@ -144,24 +144,24 @@
 
 ### 4-5
 
-4.
+4. graph
 5. positive correlation
-6.
+6. negative correlation
 7. negative correlation
-8.
+8. no correlation
 9. positive correlation
-10.
+10. Graph B
 11. Graph A
-12.
-13. 
-14.
+12. Graph C
+13. > 54billion (or no correlation) - data is insufficient
+14. graph
 15. positive correlation
-16.
+16. negative correlation
 17. positive correlation
-18.
+18. negative correlation
 19. Graph A
-20.
-21. 
+20. Graph B
+21. 28
 
 ### 4-6
 
