@@ -137,8 +137,8 @@
 23. graph
 24. graph
 25. y = 5
-26. graph
-27. graph
+26. y = 3
+27. graph, y = 3.75 miles
 
 ---
 
