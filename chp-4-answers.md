@@ -93,29 +93,32 @@
 
 ### 4-3
 3. y = x - 2
-4.
+4. y = 3x + 1
 5. I: size of bottle, D: cost of water
-6.
-7. I: hours, D: cost
-8.
+6. I: months worked, D: vacation days
+7. I: hours, D: cost, f(x) = 75x
+8. I: hours, D: cost, f(x) = 3.5 + 1.25x
 9. f(0) = 2, f(1)  = 9
-10.
+10. g(3) = 3, g(5) = 11
 11. h(27) = -1, h(-15) = -15
-12.
+12. f(x) = 100x, {(2, 200), (3, 300), (4, 400)}
 13. y = -2x
-14.
+14. y = -x
 15. I: size of lawn, D: cost
-16.
+16. I: items wrapped, D: cost
 17. I: days late, D: total cost, f(x) = 3.99 + 0.99x
-18.
+18. I: lawns mowed, D: total cost, f(x) = 25x
 19. I: gallons of gas, D: miles, f(x) = 28x
-20.
+20. f(0) = -5, f(3) = 4
 21. g(1) = 7, g(2) = 10
-22.
+22. f(9) = 9, f(-3) = 1
 23. f(n) = 2n + 5
   - D: {1, 2, 3, 4}
   - R: {$7, $9, $11, $13}
-24.
+24. 
+  - a. I: distance, D: hours, f(x) = 630x
+  - b. D: 0 <= x <= 24, R: 0 <= y <= 15120
+  - c. f(12) = 7560
 
 ---
 
