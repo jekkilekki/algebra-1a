@@ -35,9 +35,61 @@
 
 ### 5-2
 
+1. y-intercept
+2.
+3. x: 2, y: -4
+4.
+5. x: 2, y: -1
+6.
+7. x: 2, y: 8
+8.
+9. 
+10.
+11.
+12.
+13. x: -1, y: 3
+14.
+15. x: -4, y: 2
+16.
+17. x: -4, y: 2
+18.
+19. x: 2, y: 8
+20.
+21. x: $\frac{1}8$, y: -1
+22.
+23. 
+24.
+25.
+26.
+27.
+28.
+29.
+
 ---
 
 ### 5-3
+
+1. constant
+2. -3 gal/hr, -2 gal/hr, $\-frac{4}3$ gal/hr, -1 gal/hr - greatest rate = first hour 
+3. 
+4. $\frac{1}2$
+5. $-\frac{3}4$
+6. 0
+7. undefined
+8. negative
+9. undefined
+10. 0
+11. positive
+12. 
+13. 
+14. -1
+15. 1
+16. undefined
+17. 0
+18. positive
+19. positive
+20. 
+21. 
 
 ---
 
