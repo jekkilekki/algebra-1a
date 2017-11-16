@@ -71,7 +71,7 @@
 
 1. constant
 2. -3 gal/hr, -2 gal/hr, $\-frac{4}3$ gal/hr, -1 gal/hr - greatest rate = first hour 
-3. 
+3. 14 beats/min/min, 18 beats/min/min, -31 beats/min/min, $-6\frac{2}3$ beats/min/min
 4. $\frac{1}2$
 5. $-\frac{3}4$
 6. 0
@@ -80,20 +80,43 @@
 9. undefined
 10. 0
 11. positive
-12. 
-13. 
+12. 0.66 in/mo, 0.46 in/mo, 0.3625 in/mo, 0.314 in/mo - greatest growth nearer birth
+13. $\frac{8}3$ m/s, $-8\frac{3}4$ m/s, $\frac{45}7$ m/s, 3 m/s
 14. -1
 15. 1
 16. undefined
 17. 0
 18. positive
 19. positive
-20. 
-21. 
+20. 0.73 units up
+21. Scope shows a linear function - constant change
 
 ---
 
 ### 5-4
+
+1. $m = 1$
+2. $m = -\frac{3}2$
+3. $m = -\frac{1}2$
+4. $m = \frac{1}2$
+5. $m = 10$
+6. $m = 10$
+7. $m = \frac{1}540$
+8. $m = -4$
+9. $m = -\frac{5}9$
+10. $m = -\frac{9}5$
+11. $m = -4$
+12. $m = 0$
+13. $undefined$
+14. $m = 3.5$
+15. $m = -\frac{3}4$
+16. $m = \frac{5}9$
+17. $m = -\frac{9}{5000}
+18. $m = -\frac{7}{13}$
+19. $m = -\frac{13}5$
+20. $m = -3$
+21. Student A is correct.
+22. $m = 4, linear$
 
 ---
 
