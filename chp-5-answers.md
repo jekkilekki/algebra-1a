@@ -122,24 +122,24 @@
 
 ### 5-5
 
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
+10. direct variation, $k = \frac{1}6$
+11. direct variation, $k = \frac{1}4$
+12. no
+13. direct variation, $\frac{y}{x}$ is the same for each pair
+14. direct variation, $\frac{y}{x}$ is the same for each pair
+15. $y = -16$
+16. $y = \frac{1}6$
+17. $y = 2.5x$
+18. direct variation, $y = \frac{15}{4}$
+19. no
+20. $y = 5x$
+21. $y = -3x$
+22. $y = \frac{1}4$
+23. $y = 4x$
+24. $y = 3x$
+25. $y = 2x$
+26. $y = -8x$
+27. $y = 7x$
 
 ---
 
