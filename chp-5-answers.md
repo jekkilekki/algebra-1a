@@ -4,31 +4,31 @@
 
 ### 5-1
 
-15. $function, not linear$
-16. $function, linear$
-17. $function, not linear$
-18. $function, not linear - change in y is different compared to x's$
-19. $function, linear - both x and y have common differences$
-20. $function, linear - both x and y have common differences$
-21. $function, linear$
-22. $$
-23. $no$
-24. $$
-25. $$
-26. $not a function - x is always the same$
-27. $function, linear$
-28. $function, linear$
-29. $function, linear$
-30. $yes, 2x - 8y = 16$
+15. function, not linear
+16. function, linear
+17. function, not linear
+18. function, not linear - change in y is different compared to x's
+19. function, linear - both x and y have common differences
+20. function, linear - both x and y have common differences
+21. function, linear - slope is 0
+22. funtion, linear - it follows the y = mx + b pattern
+23. no function - divide by x means you could divide by 0
+24. function, linear - slope is 0
+25. D: {}, R: {}
+26. not a function - x is always the same
+27. function, linear
+28. function, linear
+29. function, linear
+30. yes, 2x - 8y = 16
   - A = 2, B = -8, C = 16
-31. $yes, -4x + y = 2$
+31. yes, -4x + y = 2
   - A = -4, B = 1, C = 2
-32. $yes, 2x - \frac{1}{3}y = -4$
+32. yes, 2x - $\frac{1}{3}y$ = -4
   - A = 2, B = $-\frac{1}3$, C = -4
-33. $no$
-34. $yes, \frac{1}{2}x - \frac{1}{3}y = -\frac{10}{3}$
+33. no
+34. yes, $\frac{1}{2}x - \frac{1}{3}y = -\frac{10}{3}$
   - A = $\frac{1}{2}$, B = $-\frac{1}{3}$, C = $-\frac{10}{3}$
-35. $yes, x = 7$
+35. yes, $x = 7$
   - A = 1, B = 0, C = 7
 
 ---
@@ -36,34 +36,34 @@
 ### 5-2
 
 1. y-intercept
-2.
+2. x: -5, y: 1
 3. x: 2, y: -4
-4.
+4. x: -3, y: -2
 5. x: 2, y: -1
-6.
+6. x: 2, y: 3
 7. x: 2, y: 8
-8.
-9. 
-10.
-11.
-12.
+8. x: -5, y: -25
+9. graph
+10. graph
+11. graph
+12. graph
 13. x: -1, y: 3
-14.
+14. x: -5, y: -1
 15. x: -4, y: 2
-16.
+16. x: 2, y: 4
 17. x: -4, y: 2
-18.
+18. x: -8, y: 2
 19. x: 2, y: 8
-20.
+20. x: 5, y: -15
 21. x: $\frac{1}8$, y: -1
-22.
-23. 
-24.
-25.
-26.
-27.
-28.
-29.
+22. x: 12, y: 300
+23. x: 25, y: 5
+24. x: 3, y: -2
+25. x: 9, y: 6
+26. x: 8, y: -1
+27. x: 1, y: -1
+28. x: 3, y: 5
+29. x: -1, y: $\frac{1}{3}$
 
 ---
 
