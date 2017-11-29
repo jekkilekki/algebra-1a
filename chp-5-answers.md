@@ -234,7 +234,21 @@
 
 ### 5-9
 
----
-
-### 5-10
-
+1. translation
+2. rotation
+3. translation
+4. translation
+5. translation
+6. translation
+7. rotation
+8. rotation
+9. rotation
+10. rotation
+11. $g(x) = \frac{1}{5}x$
+12. $g(x) = -2x + 4$
+13. $g(x) = \frac{1}{3}x - 6$
+14. $g(x) = -5x -1$
+15. rotation + translation
+16. rotation + translation
+17. rotation + translation
+18. rotation + translation
