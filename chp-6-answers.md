@@ -30,124 +30,130 @@
 ### 6-2
 
 8. 
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
+9. (-4, 2)
+10. 
+11. (-1, 2)
+12. 
+13. (1, 5)
+14. 
+15. (3, -2)
+16. 
+17. (6 months, $360) - second option
+18. 
+19. (2, -2)
+20. 
+21. (8, 6)
+22. 
+23. (-9, -14.8)
+24. 
 
 ---
 
 ### 6-3
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-
+1. (-4, 1)
+2. 
+3. (-2, -4)
+4. 
+5. (-6, 30)
+6. 
+7. (3, 2)
+8. 
+9. (4, -3)
+10. 
+11. (-1, -2)
+12. 
+13. (1, 5)
+14. 
+15. (6, $-\frac{1}{2}$)
+16. 
+17. (-1, 2)
+18. 
+19. (-1, 2)
+20. 
+ 
 ---
 
 ### 6-4
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
+1. consistent
+2. 
+3. no solutions
+4. 
+5. infinite solutions
+6. 
+7. infinite solutions
+8. 
+9. inconsistent; no solutions
+10. 
+11. Yes; graphs have different slopes so the intersect
+12. 
+13. no solutions
+14. 
+15. no solutions
+16. 
+17. infinite solutions
+18. 
+19. infinite solutions
+20. 
+21. consistent, independent; one solution
+22. 
 
 ---
 
 ### 6-5
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
+1. 
+2. 
+3. yes
+4. 
+5. graph
+6. 
+7. graph
+8. 
+9. 
+  - a) r + p <= 16
+  - b) graph
+  - c) possible: (2c orange, 2c pineapple), (4c orange, 10c pineapple)
+10. 
+11. y >= x + 5
+12. 
+13. yes
+14. 
+15. graph
+16. 
+17. 
+18. 
+19. 
+  - a) 3b + 2d <= 30
+  - b) graph
+  - c) possible: (3lb hamburger, 2lb hot dogs), (5 lb hamburger, 6 lb hot dogs)
+20. 
+21. $y <= -\frac{1}{5}x + 3$
 
 ---
 
 ### 6-6
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
+1. all
+2. 
+3. yes
+4. 
+5. graph; soln: (3, 3), (4, 3) - NOT: (0, 0), (2, 1)
+6. 
+7. graph; soln: (0, 4), (1, 4) - NOT: (2, -1), (3, 1)
+8. 
+9. graph
+10. 
+11. graph
+12. 
+13. graph
+14. 
+15. graph; soln: (6 lemonade, 13 cupcakes), (10 lemonade, 10 cupcakes)
+16. 
+17. yes
+18. 
+19. graph; soln: (-2, 0), (-3, 1) - NOT: (0, 0), (1, 4)
+20. 
+21. graph; soln: (-1, 3), (0, 5) - NOT: (0, 0), (1, 4)
+22. 
