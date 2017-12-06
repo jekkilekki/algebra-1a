@@ -4,23 +4,26 @@
 
 ### 6-1
 
-1. 
-2. 
+1. An ordered pair that satisfies each equation in the system.
+2. No
 3. 
-4. 
+4. Yes
 5. 
-6. 
+6. (1, -1)
 7. 
-8. 
+8. (5, $180)
 9.
-10.
+10. Yes
 11.
-12.
+12. (-2, 1)
 13.
-14.
+14. (-4, 7)
 15.
-16.
-17.
+16. (3 weeks, 10 miles)
+17. 
+  - f(x) = 2x
+  - g(x) = 0.5x + 16
+  - No, because you can't sell half a carnation (which is x), but you could sell 11 which makes more sense (11, $22)
 
 ---
 
