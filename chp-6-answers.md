@@ -6,19 +6,19 @@
 
 1. An ordered pair that satisfies each equation in the system.
 2. No
-3. 
+3. Yes
 4. Yes
-5. 
+5. (2, 1)
 6. (1, -1)
-7. 
+7. (-4, 7)
 8. (5, $180)
-9.
+9. No
 10. Yes
-11.
+11. No
 12. (-2, 1)
-13.
+13. (3, 3)
 14. (-4, 7)
-15.
+15. (3, -1)
 16. (3 weeks, 10 miles)
 17. 
   - f(x) = 2x
