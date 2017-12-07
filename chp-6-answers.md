@@ -77,27 +77,27 @@
 ### 6-4
 
 1. consistent
-2. 
-3. no solutions
-4. 
+2. no solutions, parallel lines
+3. no solutions, parallel lines
+4. no solutions, parallel lines
 5. infinite solutions
-6. 
+6. infinite solutions
 7. infinite solutions
-8. 
+8. consistent; independent
 9. inconsistent; no solutions
-10. 
+10. consistent; dependent
 11. Yes; graphs have different slopes so the intersect
-12. 
-13. no solutions
-14. 
-15. no solutions
-16. 
+12. no solutions, parallel lines
+13. no solutions, parallel lines
+14. no solutions, parallel lines
+15. no solutions, parallel lines
+16. infinite solutions
 17. infinite solutions
-18. 
+18. infintie solutions
 19. infinite solutions
-20. 
+20. consistent, dependent; infinite solutions
 21. consistent, independent; one solution
-22. 
+22. inconsistent; no solutions
 
 ---
 
