@@ -103,32 +103,32 @@
 
 ### 6-5
 
-1. 
-2. 
+1. No, because a dashed boundary line indicates <= or >= so the point can't be =
+2. yes
 3. yes
-4. 
+4. no
 5. graph
-6. 
+6. graph
 7. graph
-8. 
+8. graph
 9. 
   - a) r + p <= 16
   - b) graph
   - c) possible: (2c orange, 2c pineapple), (4c orange, 10c pineapple)
-10. 
+10. y < 3
 11. y >= x + 5
-12. 
+12. no
 13. yes
-14. 
+14. no
 15. graph
-16. 
-17. 
-18. 
+16. graph
+17. graph
+18. graph
 19. 
   - a) 3b + 2d <= 30
   - b) graph
   - c) possible: (3lb hamburger, 2lb hot dogs), (5 lb hamburger, 6 lb hot dogs)
-20. 
+20. $y > \frac{2}{3}x - 1$
 21. $y <= -\frac{1}{5}x + 3$
 
 ---
