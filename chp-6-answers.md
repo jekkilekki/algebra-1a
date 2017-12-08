@@ -136,24 +136,24 @@
 ### 6-6
 
 1. all
-2. 
+2. yes
 3. yes
-4. 
+4. no
 5. graph; soln: (3, 3), (4, 3) - NOT: (0, 0), (2, 1)
-6. 
+6. graph; soln: (0, 0), (0, 10) - NOT: (4, 0), (10, 10)
 7. graph; soln: (0, 4), (1, 4) - NOT: (2, -1), (3, 1)
-8. 
+8. graph; soln: (0, 0), (-4, 0) - NOT: (0, -5), (0, -9)
 9. graph
-10. 
+10. graph
 11. graph
-12. 
+12. graph
 13. graph
-14. 
+14. graph
 15. graph; soln: (6 lemonade, 13 cupcakes), (10 lemonade, 10 cupcakes)
-16. 
+16. yes
 17. yes
-18. 
+18. no
 19. graph; soln: (-2, 0), (-3, 1) - NOT: (0, 0), (1, 4)
-20. 
+20. graph; soln: (-2, -2), (-10, -2) - NOT: (-2, -1), (1, 0)
 21. graph; soln: (-1, 3), (0, 5) - NOT: (0, 0), (1, 4)
-22. 
+22. graph; soln: (-1, 1), (-4 , 4) - NOT: (0, 0), (1, -1)
