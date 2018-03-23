@@ -164,28 +164,32 @@
 
 ### 8-5
 
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
+14. (2x - 1)^2
+15. No. There's a negative at the end. 
+16. (6x - 1)^2
+17. (5x + 2)^2
+18. (3x + 3)^2
+19. (4x - 5)^2
+20. P = 4(2x - 11) = 284 mm
+21. (1 + 2x)(1 - 2x)
+22. (5m + 4n)(5m - 4n)
+23. No. x and y are not squares.
+24. (7p^6 + 3q^3)(7p^6 - 3q^3)
+25. (9 + 10x^2)(9 - 10x^2)
+26. No. x and y are odd exponents - they must be even.
+27. 7
+28. 30
+29. 4y^2
+30. (x - 4)^2
+31. (10x + 9y)(10x - 9y)
+32. (6x + 2)^2
+33. (2r^3 + 5s^3)(2r^3 - 5s^3)
+34. (7x - 5)^2
+35. (x^7 + 12)(x^7 - 12)
+36. Perfect-square trinomials also have 2ab, but difference of two squares don't.
+37. a^2 + 2ab + b^2, a^2 - 2ab + b^2
+38. -11
+39. 16
 
 ---
 
