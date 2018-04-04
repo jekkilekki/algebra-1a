@@ -79,6 +79,9 @@
 ---
 
 36.
+  - opens: up, x = 0, (0, 4), no zeroes, D: all real nums, R: y >= 4
+  - opens: down, x = 0, (0, 4) , -2 & 2, D: all real nums, R: y <= 4
+  - opens: up, x = (), (, 8), 
 37.
 38.
 39.
