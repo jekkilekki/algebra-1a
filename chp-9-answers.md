@@ -91,6 +91,37 @@
 
 ### 9-4
 
+1. f(x) = 3x^2, g(x) = 2x^2
+2. The same
+3. h(x) = -8x^2, g(x) = -2x^2, f(x) = 3/4x^2
+4. h(x) = 3x^2, f(x) = x^2, g(x) = -4/5x^2
+5. Same slope, but vertex is translated up 6
+6. Opens downward, steeper slope, translated up 5
+7. Same vertex, wider slope
+8. Opens downward, wider slope, translated down 2
+9. h(t) = -16t^2 + 16, h(t) = -16^2 + 256 
+  - Graph width is the same, but second ball is translated up farther
+  - First ball = 1 sec, Second ball = 4 sec
+10. g(x) = 4x^2, f(x) = x^2
+11. f(x) = -2x^2, g(x) = 1/2x^2
+12. f(x) = -x^2, g(x) = -5/8x^2, h(x) = 1/2x^2
+13. f(x) = -5x^2, h(x) = 3x^2, g(x) = -3/8x^2
+14. Wider slope, translated 10 down
+15. Steeper, narrower slope, opening downward, translated down 2
+16. Wider slope, translated 9 down
+17. Wider slope, opening down, translated up 1
+18. h(t) = -16t^2 + 10000, h(t) = -16t^2 + 14400
+  - Graph width is the same, but second raindrop drops from farther up
+  - First raindrop = 25 sec, Second raindrop = 30 sec
+19. Always True
+20. Never True
+21. Never True
+22. Sometimes True
+
+---
+
+### 9-1 to 9-4 Review
+
 1.
 2.
 3.
@@ -113,7 +144,8 @@
 20.
 21.
 22.
+23.
+24.
+25.
 
 ---
-
-### 9-5
