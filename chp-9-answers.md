@@ -136,12 +136,12 @@
 12. V: (1, 5)
 13. V: (-2, -24)
 14. y = 32 ft
-15. Graph
-16. Graph
-17. Graph
-18. Graph
-19. Graph
-20. Graph
+15. Graph: V: (-3/2, 27/4), y-int: (0, 9)
+16. Graph: V: (1, -16), y-int: (0, -15)
+17. Graph: V: (1, -9), y-int: (0, -8)
+18. Graph: V: (0, -6), y-int: (0, -6), pt1: (-1, -4), pt2: (1, -4)
+19. Graph: V: (-1, -6), y-int: (0, -2)
+20. Graph: V: (-5/2, 75/2), y-int: (0, 1)
 21. Translated down 2
 22. Wider slope
 23. Narrower slope and translated up 3
