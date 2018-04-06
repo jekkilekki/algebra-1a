@@ -122,30 +122,33 @@
 
 ### 9-1 to 9-4 Review
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
+1. Yes because you can write it as y = ax^2 + bx + c
+2. No, it is y = 4
+3. Yes, judging by the graph it's a parabola
+4. Downwards, maximum
+5. Upwards, minimum
+6. Downwards, maximum
+7. D: All real numbers, R: y >= -2
+8. x = -1, x = 3
+9. x = -1
+10. None
+11. V: (-3, -7)
+12. V: (1, 5)
+13. V: (-2, -24)
+14. y = 32 ft
+15. Graph
+16. Graph
+17. Graph
+18. Graph
+19. Graph
+20. Graph
+21. Translated down 2
+22. Wider slope
+23. Narrower slope and translated up 3
+24. Opens downward and translated up 4
+25. h(t) = -16t^2 + 196, h(t) = -16t^2 + 676
+  - Second one is translated up higher, and has steeper slope at the "ground" - which means falling speed is faster at the end
+  - First bag: t^2 = 12.25, t = 3.5 sec
+  - Second bag: t^2 = 42.25, t = 6.5 sec
 
 ---
