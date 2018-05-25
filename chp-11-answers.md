@@ -84,7 +84,39 @@ Four functions:
 19. y = 58(0.9)^t = $24.97
 20. y = 80(0.5)^t = 5g
 
+---
+
 ### 11-4 (Tuesday)
+
+Models:
+* Linear = line = constant FIRST difference
+* Quadratic = U-curve = constant SECOND difference
+* Exponential = L-curve = constant ratio (multiplier)
+
+1. exponential
+2. quadratic
+3. linear
+4. quadratic
+5. exponential
+6. linear
+7. y = 1.79x = $10.74 (linear)
+8. quadratic
+9. linear
+10. exponential
+11. linear
+12. quadratic
+13. exponential
+14. Increasing by 20% per year (exponential); y = 25000(1.2)^t = $154793.41
+15. l = 6k; linear
+16. linear
+17. linear
+18. quadratic
+19. y = 0.2(4)^x
+20. y = (-1/2)x + 4
+21. linear
+22. quadratic
+
+---
 
 ### 11-5 (Wed)
 
