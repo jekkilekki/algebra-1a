@@ -25,29 +25,33 @@
 
 ### 11-2 (Friday)
 
-1.
-2. 
-3. 
-4. 
-5. 
-6. 
+1. No; there is no variable in the exponent.
+2. 316 lumens/m^2
+3. No; y doesn't increase / decrease exponentially
+4. Yes; y is multiplied by 4 each time
+5. Graph
+6. Graph
 
 ---
 
-9. 
-10. 
+9. Graph
+10. Graph
 
 ---
 
-13. 
-14. 
+13. Graph
+14. Graph
 
 ---
 
-17.
-18. 
-19. 
-20. 
+17. In 2023, between 62 to 63 years after 1960.
+18. 5 1/3 ft
+19. 289 ft
+20. 225.02 in/min
+21. Yes; divided by 3 each time
+22. No; 0 can't be multiplied to get anything except 0
+23. No; linear function, not exponential
+24. Yes; multiplied by 2 each time
 
 ---
 
