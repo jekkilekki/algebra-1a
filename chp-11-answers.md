@@ -86,7 +86,7 @@ Four functions:
 
 ---
 
-### 11-4 (Tuesday)
+### 11-4 (Monday)
 
 Models:
 * Linear = line = constant FIRST difference
@@ -118,16 +118,86 @@ Models:
 
 ---
 
-### 11-5 (Wed)
+### 11-5 (Tuesday)
 
-### 11-6 (Thur)
+1. There is no variable under the square-root sign.
+2. 16.12cm
+3. x >= -6
+4. x <= 3
+5. x >= 0
+6. x >= -2
+7. x >= -3
+8. x >= 5
+9. Graph
+10. Graph
+11. Graph
+12. Graph
+13. Graph
+14. Graph
+15. 49.96 mi/h
+16. x <= 4
+17. x >= 0
+18. x >= -2/3
+19. x <= 3/2
+20. x >= -1
+21. x >= -5/3
+22. x >= -4
+23. x >= 40
+24. x >= 2
+25. x >= 9
+26. x >= -4
+27. x >= -2/3
 
-### 11-7 (Fri)
+---
 
-### 11-8 (Mon)
+### 11-6 (Wednesday)
 
-### 11-9 (Tues)
+1. 3x - 6
+2. 9
+3. 7
+4. |a + 7|
+5. 6√(5)
+6. 2√(10)
+7. 18√(2)
+8. m^2n√(mn)
+9. 4x^2y√(2y)
+10. 10a√(2b)
+11. √(17)/5
+12. √(7)/4
+13. √(6)/7
+14. √(b)/c
+15. √(x)/3
+16. √(7a)/3
+17. (6√(3))/7
+18. (2√(51))/5
+19. (16√(2))/9
+20. 1/6x
+21. (5x√(2))/13
+22. 3x√(2x)
+23. 5√(41)mi; 32mi
+24. 10
+25. 20
+26. 5
+27. 9
+28. a^2
+29. |x + 1|
+30. |5 - x|
+31. |x - 3|
 
-### Review (Thur)
+---
 
-### Test (Friday) - then only 5 days for 7 sections in Chp 12...
+### 11-7 (Thursday)
+
+---
+
+### 11-8 (Thursday)
+
+---
+
+### 11-9 (Monday)
+
+---
+
+### Review (On Final Review)
+
+### Test (On Final Test)
